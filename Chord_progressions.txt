@@ -1,0 +1,51 @@
+Chord Progressions for jamming and practicing
+
+from Day Tripper by The Beatles
+
+E7   E7   E7   E7
+A7   A7   E7   E7
+F#   F#   F#   F#
+A7   G#7  C#   B
+
+from Where Is My Mind by The Cranberries
+
+E    C#m  G#   A#
+ and 
+E    G#   A    Am   C#m  B 
+
+from Dramamine by Modest Mouse
+
+Em   D    C    G
+
+from Hey Jude by the Beatles
+
+F    C    C7   F
+Bb   F    C7   F
+
+from Dear Prudence by The Beatles
+
+D    D7   GM7  Gm#7
+
+from the Piano Handbook
+
+Dm7  G7   CM7   CM7
+Dm7  G7   CM7   CM7
+Am7  G7   FM7   FM7
+Dm7  G7   CM7   CM7
+
+From Nathan
+
+A    A    E     B
+A    A    E     B
+A    A    E     B
+C#   C#   D     D
+F#   F#   D     D
+F#   F#   D     D
+F#   F#   D     D
+C#   C#   E     E
+
+from 12 bar Em blues
+
+Em   Em   Em    Em
+Am   Am   Em    Em
+Bm   Am   Em    Em
