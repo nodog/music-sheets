@@ -26,6 +26,15 @@ from Dear Prudence by The Beatles
 
 D    D7   GM7  Gm#7
 
+from Good Night by The Beatles
+
+G    Bm   C    C
+Bm   C    C    D7
+G    Bm   C    C
+Bm   C    C    D7
+Bm   Am   Bm   Am
+G    Am   G    Am
+
 from the Piano Handbook
 
 Dm7  G7   CM7   CM7
@@ -49,3 +58,10 @@ from 12 bar Em blues
 Em   Em   Em    Em
 Am   Am   Em    Em
 Bm   Am   Em    Em
+
+from Than Plus by Anderson
+
+2x -  E    E    F#m   F#m
+   \  A    A    B7    B7
+2x -  E    G#m  A     A
+   \  E    G#m  A     B
