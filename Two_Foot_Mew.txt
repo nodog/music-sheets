@@ -1,8 +1,12 @@
 Two Foot Mew   128 bpm
 
+D                             C#
 I'm two foot one and I done begun hun'
+F#                               C#
 I'm a killer cat chosen one in a million
+D                             E
 All teeth talon and the fight in the kitten
+F#                                      C#
 I can even slow down time; they call it the quicken
 
 I'm two foot two and you can call me Beru
@@ -20,12 +24,14 @@ Explore this eyesore, stomp undead like a dinosaur
 Speaking of forgotten lore, I implore
 Moaners can we ignore? Quoth the kitten, nevermore
 
+         A   E    F#m
 It's the Two Foot Mew
+A     E F#m
 Never untrue
+A       E        F#m
 What've you been through?
+        Bm  E    A
 Tell us Two Foot Mew
-
---- beatbox ---
 
 I'm two foot five and only fully alive
 When we're killing off the creatures that are dead and revive.
@@ -47,12 +53,14 @@ We wait til the building's full as it can accommodate.
 Activate the quicken, then I head for the gate.
 Z ignites the nitrate, animated incinerate.
 
+         A   E    F#m
 It's the Two Foot Mew
+A     E F#m
 Never untrue
+A       E        F#m
 What've you been through?
+        Bm  E    A
 Tell us Two Foot Mew
-
---- beatbox ---
 
 I'm two foot nine, and I shall now opine
 That I come from a clan with a remarkable bloodline.
@@ -73,3 +81,12 @@ I'm two foot twelve and shall I now delve
 Into the bigger question that concerns you as well?
 Can I still look out for others in this world gone to hell?
 Just watch me cutting zombies. Now I bid you farewell.
+
+         A   E    F#m
+It's the Two Foot Mew
+A     E F#m
+Never untrue
+A       E        F#m
+What've you been through?
+        Bm  E    A
+Tell us Two Foot Mew
