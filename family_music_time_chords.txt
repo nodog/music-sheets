@@ -33,3 +33,11 @@ Saturday 2X: D / A7 / D / A7
              D / G / D / A7
              D / A7 / D / D
 
+
+E = open 6th string
+F = 1st fret on 6th string
+G = 3rd fret on 6th string
+A = open 5th string
+B = 2rd fret on 5th string
+C = 3rd fret on 5th string
+D = open 4th string
