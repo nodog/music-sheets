@@ -6,6 +6,10 @@ ABC  C G F C / F C G7 C /
      C G7 C G7 / C G7 C G7 /
      C G F C / F C G7 C
 
+Head  G - / G D / G C / D G
+
+Changing  G / D / G / D / C / D / C / D
+
 Tingalayo  F C / G7 C
 
 Wagon  G - / D7 - / G C / D G
