@@ -3,7 +3,7 @@ Music Time Chords
 Hello  C - A - / C - A - / F G C -
 
 ABC  C G F C / F C G7 C /
-     C G7 C G7 / C G7 C G7 /
+     C F C G / C F C G /
      C G F C / F C G7 C
 
 Head  G - / G D / G C / D G
