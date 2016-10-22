@@ -41,6 +41,8 @@ Saturday 2X: D / A7 / D / A7
              D / G / D / A7
              D / A7 / D / D
 
+Itsy Bitsy  F F C7 F
+
 12-bar blues  E / E / E / E
               A / A / E / E
               B / A / E / E*
