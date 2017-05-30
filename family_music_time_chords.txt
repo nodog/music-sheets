@@ -1,53 +1,60 @@
-Intro:  / F - C - / G - C -/
- 
-C                   Am 
-Deck the halls with boughs of holly,
-G7          C      G     C
-Fa la la la la, la la la la
-C              Am
-Tis the season to be jolly,
-G7          C      G     C
-Fa la la la la, la la la la
-G7                      C
-Don we now our gay apparel,
-C          Am      D7   G 
-Fa la la la la la, la la la
-C (1)                    Am (1)
-Troll the ancient Yuletide carol,
- F             C      G     C 
-Fa la la la la, la la la la
- 
-C (1)                   Am (1)
-See the blazing Yule before us
-G7       C          G     C
-Fa la la la la, la la la la
-C (1)                       Am (1)
-Strike the harp and join the chorus
-G7       C          G     C
-Fa la la la la, la la la la
-G7                  C
-Follow me in merry measure
-C          Am      D7   G 
-Fa la la la la la, la la la
-C (1)                  Am (1)
-While I tell the Yuletide treasure
-F             C      G     C 
-Fa la la la la, la la la la
- 
-C (1)              Am (1)
-Fast away the old year passes
-G7       C          G     C
-Fa la la la la, la la la la
-C (1)                   Am (1)
-Hail the new, ye lads and lasses
-G7       C          G     C
-Fa la la la la, la la la la
-G7                   C
-Sing we joyous all together
-C          Am      D7   G 
-Fa la la la la la, la la la
-C (1)                   Am (1)
-Heedless of the wind and weather
-F             C      G     C (hold) 
-Fa la la la la, la la la la
- 
+Music Time Chords
+
+Hello  C - A - / C - A - / F G C -
+
+ABC  C G F C / F C G7 C /
+     C F C G / C F C G /
+     C G F C / F C G7 C
+
+Head  G - / G D / G C / D G
+
+Changing  G / D / G / D / C / D / C / D
+
+Like To Eat  C / C / C / C G7
+             G7 / G7 / G7 / G7 C
+
+Tingalayo  F C / G7 C
+
+Wagon  G - / D7 - / G C / D G
+
+Owl  Dm / - / - / Gm7 / Dm / - / A7 Gm7 / Dm
+
+Good News  F / - / C / - / F / - / C / F
+
+Pawpaw  E / B7 / E / B7 E
+
+Galloping  4X: C / - / G7 / C
+               + / G7 / C / G7 / C
+
+Clap  D - - - / D - C - / D - - - / D C D -
+
+Biddy  C / C / G7 / C
+
+John  6X: E B7 / E  4X: A - E - / A E - -
+
+Cobbler  - - - -
+
+Train  Dm / Dm / C / C / Dm / Dm / C / Dm
+
+Rig A  C / C / G7 / C
+
+Roll  E B7 / E B7 / E - / E - / E B7 / E B7
+
+Saturday 2X: D / A7 / D / A7
+             D / G / D / A7
+             D / A7 / D / D
+
+Itsy Bitsy  F F C7 F
+
+12-bar blues  E / E / E / E
+              A / A / E / E
+              B / A / E / E*
+
+
+E = open 6th string
+F = 1st fret on 6th string
+G = 3rd fret on 6th string
+A = open 5th string
+B = 2rd fret on 5th string
+C = 3rd fret on 5th string
+D = open 4th string
