@@ -1,5 +1,6 @@
 Let It Be - The Beatles - 72-68 bpm
 
+
 Intro - 1 phrase - C  G  Am F  C  G  F-Em-Dm-C
 
 PIANO  C              G                 Am          F
@@ -31,6 +32,7 @@ TRUMP  C          G          Am         F
 Let it be, let it be, let it be, let it be
 C                G              F  Em  Dm  C
 Whisper words of wisdom, let it be
+
 
 E PIANO BREAKDOWN - F Em Dm C Bd Am G F C
 ORGAN BREAKDOWN   - F Em Dm C Bd Am G F C
