@@ -13,6 +13,8 @@ Changing  G / D / G / D / C / D / C / D
 Like To Eat  C / C / C / C G7
              G7 / G7 / G7 / G7 C
 
+Itsy Bitsy  F F C7 F
+
 Tingalayo  F C / G7 C
 
 Wagon  G - / D7 - / G C / D G
@@ -43,8 +45,6 @@ Roll  E B7 / E B7 / E - / E - / E B7 / E B7
 Saturday 2X: D / A7 / D / A7
              D / G / D / A7
              D / A7 / D / D
-
-Itsy Bitsy  F F C7 F
 
 12-bar blues  E / E / E / E
               A / A / E / E
