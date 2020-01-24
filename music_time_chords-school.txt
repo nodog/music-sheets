@@ -1,10 +1,15 @@
-Music Time Chords
+Music Time Chords - School 
 
 Hey, Good Morning  G D / C D / G D / C D
 
 ABC  C G F C / F C G7 C /
      C F C G / C F C G /
      C G F C / F C G7 C
+
+Old MacDonald  G - C G / - D G -
+               G - C G / - D G -
+               G - G - / -G-G--GG
+               G - C G / - D G -
 
 Head  G - / G D / G C / D G
 
@@ -37,6 +42,13 @@ Roll  E B7 / E B7 / E - / E - / E B7 / E B7
 Saturday 2X: D / A7 / D / A7
              D / G / D / A7
              D / A7 / D / D
+
+Bingo  G - C G
+       G D G -
+       G - C / D - G / C - D
+       D7 - G G
+
+Foo Foo  D - A7 - / D - A7 D
 
 I Have a Little Frog
 
